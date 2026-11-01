@@ -1,0 +1,401 @@
+Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,Processing_Days,SLA_Days,Status,Reopened,Satisfaction_Score,Submission_Weekday,Queue_Category,SLA_Breached
+SR-00001,Records,Student,2026-08-14,Portal,Low,Registrar,14,Yes,,5,Pending,Yes,,Friday,Medium,0
+SR-00002,Financial Aid,Staff,2026-05-09,Email,Normal,Finance Office,17,Yes,10.0,7,Completed,No,3.5,Saturday,High,1
+SR-00003,ID Card,Student,2026-10-08,Walk-in,Low,Student Affairs,12,Yes,3.0,3,Completed,No,5.0,Thursday,Medium,0
+SR-00004,Scholarship Inquiry,Student,2026-01-22,Email,Low,Scholarship Office,6,Yes,,7,Pending,No,,Thursday,Medium,0
+SR-00005,Scholarship Inquiry,Student,2026-02-22,Walk-in,Normal,Scholarship Office,5,Yes,5.0,7,Completed,Yes,5.0,Sunday,Low,0
+SR-00006,Financial Aid,Student,2026-10-03,Email,Normal,Finance Office,6,No,10.0,7,Completed,No,3.8,Saturday,Medium,1
+SR-00007,Records,Student,2026-03-26,Email,High,Registrar,12,Yes,,5,Cancelled,No,,Thursday,Medium,0
+SR-00008,ID Card,Student,2026-04-01,Portal,Normal,Student Affairs,8,Yes,1.0,3,Completed,No,5.0,Wednesday,Medium,0
+SR-00009,Certification,Student,2026-08-14,Email,Normal,Registrar,11,Yes,1.0,3,Completed,No,5.0,Friday,Medium,0
+SR-00010,Records,Student,2026-02-27,Portal,Normal,Registrar,11,Yes,13.0,5,Completed,No,2.4,Friday,Medium,1
+SR-00011,Enrollment,Student,2026-05-28,Portal,Normal,Admissions,10,Yes,11.0,5,Completed,No,3.5,Thursday,Medium,1
+SR-00012,Transcript Request,Student,2026-03-26,Email,Normal,Registrar,13,Yes,,5,Pending,No,,Thursday,Medium,0
+SR-00013,ID Card,Student,2026-03-01,Walk-in,Normal,Student Affairs,12,Yes,,3,Pending,No,,Sunday,Medium,0
+SR-00014,Financial Aid,Faculty,2026-10-02,Walk-in,High,Finance Office,13,No,15.0,7,Completed,No,1.7,Friday,Medium,1
+SR-00015,ID Card,Student,2026-03-01,Portal,Normal,Student Affairs,16,Yes,,3,Pending,No,,Sunday,High,0
+SR-00016,Financial Aid,Student,2026-01-31,Email,Low,Finance Office,11,Yes,10.0,7,Completed,No,4.0,Saturday,Medium,1
+SR-00017,Enrollment,Student,2026-07-12,Email,Normal,Admissions,8,No,4.0,5,Completed,No,4.7,Sunday,Medium,0
+SR-00018,Certification,Student,2026-09-04,Portal,Normal,Registrar,22,No,9.0,3,Completed,No,2.4,Friday,High,1
+SR-00019,Financial Aid,Staff,2026-02-09,Portal,Low,Finance Office,9,Yes,,7,Cancelled,No,,Monday,Medium,0
+SR-00020,Scholarship Inquiry,Student,2026-07-22,Portal,Normal,Scholarship Office,6,Yes,6.0,7,Completed,No,5.0,Wednesday,Medium,0
+SR-00021,Enrollment,Student,2026-06-05,Email,High,Admissions,12,Yes,3.0,5,Completed,No,4.9,Friday,Medium,0
+SR-00022,IT Support,Student,2026-08-25,Portal,Normal,IT Services,8,Yes,7.0,4,Completed,No,4.1,Tuesday,Medium,1
+SR-00023,Certification,Student,2026-02-09,Walk-in,High,Registrar,11,Yes,,3,Pending,No,,Monday,Medium,0
+SR-00024,Transcript Request,Staff,2026-10-05,Portal,Normal,Registrar,17,Yes,5.0,5,Completed,No,4.9,Monday,High,0
+SR-00025,Financial Aid,Student,2026-06-27,Walk-in,Normal,Finance Office,12,Yes,11.0,7,Completed,No,3.8,Saturday,Medium,1
+SR-00026,ID Card,Staff,2026-08-28,Portal,Normal,Student Affairs,7,Yes,,3,Pending,No,,Friday,Medium,0
+SR-00027,Scholarship Inquiry,Student,2026-04-16,Email,High,Scholarship Office,17,Yes,4.0,7,Completed,No,4.9,Thursday,High,0
+SR-00028,Financial Aid,Student,2026-09-26,Portal,Normal,Finance Office,8,Yes,10.0,7,Completed,No,4.2,Saturday,Medium,1
+SR-00029,Enrollment,Student,2026-06-29,Portal,Normal,Admissions,9,Yes,2.0,5,Completed,No,5.0,Monday,Medium,0
+SR-00030,Scholarship Inquiry,Student,2026-02-09,Email,Normal,Scholarship Office,21,Yes,5.0,7,Completed,No,5.0,Monday,High,0
+SR-00031,Scholarship Inquiry,Student,2026-09-20,Walk-in,Normal,Scholarship Office,10,Yes,7.0,7,Completed,No,4.9,Sunday,Medium,0
+SR-00032,Certification,Student,2026-08-15,Email,Normal,Registrar,9,No,,3,Pending,No,,Saturday,Medium,0
+SR-00033,Records,Staff,2026-03-30,Portal,Normal,Registrar,12,No,6.0,5,Completed,No,3.6,Monday,Medium,1
+SR-00034,Enrollment,Student,2026-06-06,Portal,High,Admissions,15,No,10.0,5,Completed,Yes,3.9,Saturday,Medium,1
+SR-00035,Transcript Request,Staff,2026-04-23,Portal,Normal,Registrar,9,No,,5,Cancelled,No,,Thursday,Medium,0
+SR-00036,Records,Faculty,2026-06-06,Portal,Normal,Registrar,12,No,1.0,5,Completed,No,5.0,Saturday,Medium,0
+SR-00037,Financial Aid,Student,2026-10-02,Email,Normal,Finance Office,9,Yes,11.0,7,Completed,No,4.1,Friday,Medium,1
+SR-00038,Financial Aid,Faculty,2026-09-13,Email,Normal,Finance Office,11,Yes,,7,Pending,No,,Sunday,Medium,0
+SR-00039,IT Support,Student,2026-03-06,Email,Normal,IT Services,15,Yes,2.0,4,Completed,No,4.8,Friday,Medium,0
+SR-00040,ID Card,Student,2026-10-04,Email,Low,Student Affairs,6,Yes,,3,Pending,No,,Sunday,Medium,0
+SR-00041,Certification,Faculty,2026-05-07,Email,Low,Registrar,12,Yes,,3,Pending,No,,Thursday,Medium,0
+SR-00042,Financial Aid,Faculty,2026-07-21,Email,Normal,Finance Office,11,Yes,6.0,7,Completed,No,4.5,Tuesday,Medium,0
+SR-00043,ID Card,Student,2026-08-06,Portal,Normal,Student Affairs,8,No,5.0,3,Completed,No,4.1,Thursday,Medium,1
+SR-00044,IT Support,Student,2026-05-20,Portal,Normal,IT Services,10,Yes,1.0,4,Completed,No,4.5,Wednesday,Medium,0
+SR-00045,Records,Student,2026-05-12,Email,Low,Registrar,6,No,30.0,5,Completed,Yes,1.0,Tuesday,Medium,1
+SR-00046,Transcript Request,Faculty,2026-05-12,Email,Normal,Registrar,8,Yes,6.0,5,Completed,No,4.8,Tuesday,Medium,1
+SR-00047,Scholarship Inquiry,Student,2026-09-03,Portal,Low,Scholarship Office,5,Yes,9.0,7,Completed,No,3.9,Thursday,Low,1
+SR-00048,Transcript Request,Student,2026-04-23,Portal,Normal,Registrar,8,Yes,,5,Pending,No,,Thursday,Medium,0
+SR-00049,ID Card,Student,2026-03-24,Email,High,Student Affairs,11,Yes,,3,Pending,No,,Tuesday,Medium,0
+SR-00050,Financial Aid,Student,2026-04-16,Portal,Normal,Finance Office,9,Yes,,7,Pending,No,,Thursday,Medium,0
+SR-00051,Financial Aid,Student,2026-02-28,Portal,Normal,Finance Office,8,Yes,4.0,7,Completed,No,4.4,Saturday,Medium,0
+SR-00052,Certification,Faculty,2026-04-24,Walk-in,Low,Registrar,7,No,6.0,3,Completed,No,3.8,Friday,Medium,1
+SR-00053,IT Support,Student,2026-02-05,Email,Normal,IT Services,7,Yes,1.0,4,Completed,No,4.8,Thursday,Medium,0
+SR-00054,Scholarship Inquiry,Student,2026-01-30,Portal,Low,Scholarship Office,10,Yes,14.0,7,Completed,No,3.5,Friday,Medium,1
+SR-00055,Scholarship Inquiry,Student,2026-07-26,Email,Normal,Scholarship Office,8,Yes,,7,Pending,No,,Sunday,Medium,0
+SR-00056,Records,Student,2026-01-26,Portal,Normal,Registrar,15,Yes,2.0,5,Completed,No,4.6,Monday,Medium,0
+SR-00057,Enrollment,Faculty,2026-06-13,Email,High,Admissions,16,Yes,3.0,5,Completed,No,4.7,Saturday,High,0
+SR-00058,Certification,Student,2026-08-11,Portal,Normal,Registrar,11,Yes,,3,Pending,No,,Tuesday,Medium,0
+SR-00059,ID Card,Student,2026-07-26,Portal,Normal,Student Affairs,5,Yes,1.0,3,Completed,No,3.9,Sunday,Low,0
+SR-00060,ID Card,Student,2026-05-09,Portal,Normal,Student Affairs,9,Yes,1.0,3,Completed,No,4.3,Saturday,Medium,0
+SR-00061,Transcript Request,Student,2026-02-28,Portal,High,Registrar,12,Yes,2.0,5,Completed,No,5.0,Saturday,Medium,0
+SR-00062,ID Card,Faculty,2026-09-22,Walk-in,Normal,Student Affairs,11,Yes,4.0,3,Completed,No,4.6,Tuesday,Medium,1
+SR-00063,IT Support,Student,2026-08-26,Portal,Normal,IT Services,14,Yes,,4,Pending,No,,Wednesday,Medium,0
+SR-00064,Transcript Request,Student,2026-06-25,Portal,Normal,Registrar,15,Yes,1.0,5,Completed,No,4.3,Thursday,Medium,0
+SR-00065,Scholarship Inquiry,Staff,2026-01-29,Portal,Normal,Scholarship Office,8,Yes,,7,Pending,No,,Thursday,Medium,0
+SR-00066,IT Support,Student,2026-01-14,Email,High,IT Services,12,Yes,,4,Pending,No,,Wednesday,Medium,0
+SR-00067,Transcript Request,Student,2026-04-03,Email,Normal,Registrar,10,Yes,,5,Pending,No,,Friday,Medium,0
+SR-00068,IT Support,Student,2026-02-18,Walk-in,Normal,IT Services,10,Yes,1.0,4,Completed,No,4.3,Wednesday,Medium,0
+SR-00069,Records,Student,2026-09-02,Portal,Low,Registrar,9,Yes,10.0,5,Completed,No,3.3,Wednesday,Medium,1
+SR-00070,Scholarship Inquiry,Student,2026-03-03,Portal,Normal,Scholarship Office,14,Yes,,7,Pending,No,,Tuesday,Medium,0
+SR-00071,Financial Aid,Student,2026-03-25,Portal,High,Finance Office,13,Yes,2.0,7,Completed,No,4.9,Wednesday,Medium,0
+SR-00072,Certification,Student,2026-10-05,Portal,Normal,Registrar,13,No,4.0,3,Completed,No,4.3,Monday,Medium,1
+SR-00073,Scholarship Inquiry,Student,2026-08-22,Walk-in,Normal,Scholarship Office,10,Yes,,7,Pending,Yes,,Saturday,Medium,0
+SR-00074,Certification,Student,2026-03-07,Email,High,Registrar,8,No,8.0,3,Completed,Yes,2.9,Saturday,Medium,1
+SR-00075,ID Card,Student,2026-04-22,Portal,High,Student Affairs,15,Yes,,3,Pending,No,,Wednesday,Medium,0
+SR-00076,Scholarship Inquiry,Student,2026-05-29,Portal,Normal,Scholarship Office,11,Yes,,7,Pending,No,,Friday,Medium,0
+SR-00077,IT Support,Student,2026-07-09,Walk-in,Normal,IT Services,6,Yes,,4,Pending,No,,Thursday,Medium,0
+SR-00078,Certification,Student,2026-09-24,Portal,Normal,Registrar,7,Yes,1.0,3,Completed,No,5.0,Thursday,Medium,0
+SR-00079,Enrollment,Faculty,2026-09-05,Portal,Normal,Admissions,15,No,,5,Pending,No,,Saturday,Medium,0
+SR-00080,ID Card,Faculty,2026-10-05,Portal,Normal,Student Affairs,8,Yes,5.0,3,Completed,No,3.8,Monday,Medium,1
+SR-00081,Transcript Request,Student,2026-01-16,Portal,Normal,Registrar,12,Yes,,5,Pending,No,,Friday,Medium,0
+SR-00082,Scholarship Inquiry,Student,2026-03-12,Portal,High,Scholarship Office,9,Yes,,7,Pending,No,,Thursday,Medium,0
+SR-00083,Certification,Student,2026-06-11,Portal,High,Registrar,17,Yes,,3,Pending,No,,Thursday,High,0
+SR-00084,Financial Aid,Student,2026-01-18,Portal,Normal,Finance Office,15,Yes,2.0,7,Completed,No,4.5,Sunday,Medium,0
+SR-00085,ID Card,Student,2026-04-14,Email,High,Student Affairs,20,No,7.0,3,Completed,No,3.8,Tuesday,High,1
+SR-00086,ID Card,Student,2026-02-17,Portal,Normal,Student Affairs,9,Yes,3.0,3,Completed,No,5.0,Tuesday,Medium,0
+SR-00087,Records,Student,2026-09-23,Portal,Normal,Registrar,9,Yes,6.0,5,Completed,No,5.0,Wednesday,Medium,1
+SR-00088,IT Support,Student,2026-01-22,Walk-in,Normal,IT Services,17,Yes,4.0,4,Completed,No,4.6,Thursday,High,0
+SR-00089,Financial Aid,Student,2026-02-15,Email,Normal,Finance Office,12,Yes,10.0,7,Completed,No,4.1,Sunday,Medium,1
+SR-00090,Financial Aid,Student,2026-02-28,Portal,Normal,Finance Office,8,Yes,14.0,7,Completed,No,2.9,Saturday,Medium,1
+SR-00091,Scholarship Inquiry,Faculty,2026-02-15,Portal,Normal,Scholarship Office,6,No,,7,Pending,No,,Sunday,Medium,0
+SR-00092,Financial Aid,Student,2026-06-13,Walk-in,Normal,Finance Office,11,Yes,,7,Pending,No,,Saturday,Medium,0
+SR-00093,Financial Aid,Staff,2026-04-17,Portal,Normal,Finance Office,8,Yes,6.0,7,Completed,No,5.0,Friday,Medium,0
+SR-00094,Scholarship Inquiry,Student,2026-09-17,Portal,Normal,Scholarship Office,9,Yes,,7,Pending,No,,Thursday,Medium,0
+SR-00095,Transcript Request,Faculty,2026-03-19,Walk-in,Normal,Registrar,11,Yes,4.0,5,Completed,No,5.0,Thursday,Medium,0
+SR-00096,IT Support,Staff,2026-06-04,Portal,Normal,IT Services,8,Yes,6.0,4,Completed,No,4.0,Thursday,Medium,1
+SR-00097,Certification,Staff,2026-07-08,Email,Normal,Registrar,9,Yes,6.0,3,Completed,No,4.3,Wednesday,Medium,1
+SR-00098,ID Card,Faculty,2026-06-29,Portal,Normal,Student Affairs,10,Yes,,3,Pending,No,,Monday,Medium,0
+SR-00099,ID Card,Student,2026-08-15,Email,High,Student Affairs,12,Yes,1.0,3,Cancelled,No,,Saturday,Medium,0
+SR-00100,Certification,Student,2026-03-02,Portal,Low,Registrar,4,Yes,,3,Pending,No,,Monday,Low,0
+SR-00101,Financial Aid,Student,2026-05-27,Portal,Low,Finance Office,10,No,,7,Pending,No,,Wednesday,Medium,0
+SR-00102,Certification,Student,2026-08-17,Portal,Normal,Registrar,11,Yes,2.0,3,Cancelled,No,,Monday,Medium,0
+SR-00103,Financial Aid,Student,2026-09-03,Portal,Normal,Finance Office,13,No,5.0,7,Completed,No,4.3,Thursday,Medium,0
+SR-00104,Records,Student,2026-06-26,Walk-in,Normal,Registrar,13,No,3.0,5,Completed,No,4.6,Friday,Medium,0
+SR-00105,Financial Aid,Faculty,2026-07-06,Portal,Low,Finance Office,14,Yes,7.0,7,Completed,No,4.7,Monday,Medium,0
+SR-00106,Financial Aid,Student,2026-09-03,Portal,Normal,Finance Office,10,Yes,,7,Cancelled,No,,Thursday,Medium,0
+SR-00107,Financial Aid,Student,2026-06-28,Email,Low,Finance Office,14,Yes,7.0,7,Completed,No,5.0,Sunday,Medium,0
+SR-00108,ID Card,Student,2026-09-27,Email,Normal,Student Affairs,9,Yes,4.0,3,Completed,No,4.6,Sunday,Medium,1
+SR-00109,Scholarship Inquiry,Student,2026-02-09,Portal,High,Scholarship Office,11,Yes,,7,Pending,No,,Monday,Medium,0
+SR-00110,ID Card,Student,2026-04-12,Portal,Low,Student Affairs,7,Yes,2.0,3,Completed,No,4.6,Sunday,Medium,0
+SR-00111,IT Support,Student,2026-02-05,Walk-in,Low,IT Services,9,Yes,,4,Pending,No,,Thursday,Medium,0
+SR-00112,Financial Aid,Student,2026-01-30,Email,Normal,Finance Office,11,Yes,4.0,7,Completed,No,5.0,Friday,Medium,0
+SR-00113,Enrollment,Student,2026-05-17,Email,Normal,Admissions,8,No,1.0,5,Cancelled,No,,Sunday,Medium,0
+SR-00114,Scholarship Inquiry,Student,2026-03-09,Walk-in,High,Scholarship Office,17,Yes,,7,Pending,No,,Monday,High,0
+SR-00115,Enrollment,Student,2026-04-29,Email,High,Admissions,13,Yes,4.0,5,Completed,No,4.9,Wednesday,Medium,0
+SR-00116,Enrollment,Student,2026-05-07,Portal,Low,Admissions,9,No,,5,Pending,No,,Thursday,Medium,0
+SR-00117,Records,Student,2026-06-27,Portal,Low,Registrar,10,Yes,2.0,5,Completed,No,4.7,Saturday,Medium,0
+SR-00118,Certification,Student,2026-09-26,Portal,Normal,Registrar,9,Yes,5.0,3,Completed,No,4.1,Saturday,Medium,1
+SR-00119,Certification,Student,2026-08-30,Email,Normal,Registrar,8,No,2.0,3,Completed,No,5.0,Sunday,Medium,0
+SR-00120,Records,Staff,2026-04-20,Walk-in,High,Registrar,14,Yes,,5,Pending,No,,Monday,Medium,0
+SR-00121,Scholarship Inquiry,Staff,2026-04-06,Portal,Normal,Scholarship Office,7,Yes,7.0,7,Completed,No,5.0,Monday,Medium,0
+SR-00122,ID Card,Student,2026-08-08,Portal,Low,Student Affairs,11,Yes,4.0,3,Completed,Yes,4.9,Saturday,Medium,1
+SR-00123,ID Card,Student,2026-02-08,Portal,Normal,Student Affairs,11,No,2.0,3,Completed,No,4.7,Sunday,Medium,0
+SR-00124,Scholarship Inquiry,Student,2026-06-05,Walk-in,Low,Scholarship Office,15,Yes,7.0,7,Completed,No,5.0,Friday,Medium,0
+SR-00125,Financial Aid,Faculty,2026-05-03,Portal,Normal,Finance Office,9,Yes,7.0,7,Completed,No,5.0,Sunday,Medium,0
+SR-00126,Enrollment,Student,2026-02-25,Portal,Normal,Admissions,14,Yes,8.0,5,Completed,No,4.1,Wednesday,Medium,1
+SR-00127,Records,Faculty,2026-06-26,Portal,Normal,Registrar,11,Yes,5.0,5,Completed,No,4.4,Friday,Medium,0
+SR-00128,Financial Aid,Student,2026-04-04,Portal,Normal,Finance Office,6,Yes,,7,Pending,No,,Saturday,Medium,0
+SR-00129,Enrollment,Student,2026-02-25,Portal,Normal,Admissions,12,Yes,1.0,5,Completed,No,4.6,Wednesday,Medium,0
+SR-00130,ID Card,Student,2026-07-06,Portal,High,Student Affairs,15,No,3.0,3,Completed,No,4.5,Monday,Medium,0
+SR-00131,Enrollment,Student,2026-02-22,Portal,High,Admissions,8,Yes,,5,Pending,No,,Sunday,Medium,0
+SR-00132,Enrollment,Student,2026-07-12,Portal,Normal,Admissions,7,Yes,5.0,5,Completed,No,4.8,Sunday,Medium,0
+SR-00133,Records,Student,2026-02-19,Portal,Low,Registrar,9,Yes,,5,Pending,No,,Thursday,Medium,0
+SR-00134,Enrollment,Faculty,2026-05-06,Portal,Normal,Admissions,10,Yes,6.0,5,Completed,No,4.4,Wednesday,Medium,1
+SR-00135,Financial Aid,Student,2026-08-19,Portal,High,Finance Office,17,Yes,,7,Pending,No,,Wednesday,High,0
+SR-00136,IT Support,Student,2026-03-10,Email,Normal,IT Services,10,Yes,,4,Pending,Yes,,Tuesday,Medium,0
+SR-00137,Enrollment,Student,2026-08-07,Portal,Normal,Admissions,12,Yes,,5,Pending,Yes,,Friday,Medium,0
+SR-00138,Records,Student,2026-07-26,Portal,Normal,Registrar,8,Yes,5.0,5,Completed,No,5.0,Sunday,Medium,0
+SR-00139,IT Support,Student,2026-09-14,Portal,Low,IT Services,9,Yes,2.0,4,Completed,No,5.0,Monday,Medium,0
+SR-00140,Scholarship Inquiry,Staff,2026-02-21,Portal,Normal,Scholarship Office,10,Yes,,7,Pending,No,,Saturday,Medium,0
+SR-00141,Transcript Request,Student,2026-07-24,Portal,Normal,Registrar,8,Yes,4.0,5,Completed,No,4.4,Friday,Medium,0
+SR-00142,Certification,Staff,2026-09-24,Portal,Normal,Registrar,9,No,2.0,3,Completed,No,4.5,Thursday,Medium,0
+SR-00143,IT Support,Faculty,2026-08-06,Email,Normal,IT Services,14,Yes,2.0,4,Completed,No,5.0,Thursday,Medium,0
+SR-00144,Scholarship Inquiry,Student,2026-02-26,Portal,Normal,Scholarship Office,6,No,,7,Cancelled,No,,Thursday,Medium,0
+SR-00145,Transcript Request,Faculty,2026-08-23,Portal,Normal,Registrar,14,No,7.0,5,Completed,No,3.7,Sunday,Medium,1
+SR-00146,Financial Aid,Faculty,2026-02-04,Portal,Normal,Finance Office,6,Yes,9.0,7,Completed,No,4.8,Wednesday,Medium,1
+SR-00147,Records,Staff,2026-06-18,Portal,Normal,Registrar,12,No,,5,Pending,No,,Thursday,Medium,0
+SR-00148,Certification,Student,2026-05-24,Portal,Normal,Registrar,11,Yes,7.0,3,Completed,Yes,3.8,Sunday,Medium,1
+SR-00149,Financial Aid,Student,2026-06-02,Email,Normal,Finance Office,9,Yes,7.0,7,Completed,No,4.7,Tuesday,Medium,0
+SR-00150,Records,Student,2026-05-30,Email,High,Registrar,10,Yes,2.0,5,Completed,No,5.0,Saturday,Medium,0
+SR-00151,Financial Aid,Student,2026-01-13,Portal,Low,Finance Office,6,Yes,3.0,7,Completed,No,5.0,Tuesday,Medium,0
+SR-00152,IT Support,Student,2026-05-27,Portal,High,IT Services,14,Yes,1.0,4,Completed,No,4.9,Wednesday,Medium,0
+SR-00153,Transcript Request,Student,2026-09-24,Portal,Low,Registrar,13,Yes,,5,Pending,No,,Thursday,Medium,0
+SR-00154,IT Support,Student,2026-05-07,Portal,Low,IT Services,10,Yes,,4,Pending,No,,Thursday,Medium,0
+SR-00155,Scholarship Inquiry,Student,2026-03-23,Email,Normal,Scholarship Office,9,Yes,5.0,7,Completed,No,4.5,Monday,Medium,0
+SR-00156,ID Card,Student,2026-10-10,Portal,Low,Student Affairs,10,Yes,1.0,3,Completed,No,4.8,Saturday,Medium,0
+SR-00157,Certification,Student,2026-02-01,Portal,Low,Registrar,7,Yes,2.0,3,Completed,No,5.0,Sunday,Medium,0
+SR-00158,Enrollment,Faculty,2026-05-21,Walk-in,Low,Admissions,8,Yes,3.0,5,Cancelled,No,,Thursday,Medium,0
+SR-00159,Enrollment,Student,2026-05-28,Portal,Normal,Admissions,13,Yes,,5,Pending,No,,Thursday,Medium,0
+SR-00160,Financial Aid,Student,2026-05-18,Portal,Normal,Finance Office,11,Yes,,7,Pending,No,,Monday,Medium,0
+SR-00161,Transcript Request,Staff,2026-09-20,Email,Low,Registrar,13,Yes,4.0,5,Completed,No,5.0,Sunday,Medium,0
+SR-00162,ID Card,Student,2026-05-03,Portal,Normal,Student Affairs,11,Yes,3.0,3,Completed,No,4.2,Sunday,Medium,0
+SR-00163,Scholarship Inquiry,Student,2026-10-04,Portal,Normal,Scholarship Office,11,Yes,4.0,7,Completed,No,5.0,Sunday,Medium,0
+SR-00164,Scholarship Inquiry,Student,2026-01-23,Portal,Low,Scholarship Office,9,Yes,6.0,7,Completed,No,4.5,Friday,Medium,0
+SR-00165,Scholarship Inquiry,Student,2026-07-29,Walk-in,Low,Scholarship Office,9,Yes,9.0,7,Completed,No,4.6,Wednesday,Medium,1
+SR-00166,Financial Aid,Student,2026-06-20,Portal,High,Finance Office,13,Yes,9.0,7,Completed,No,4.3,Saturday,Medium,1
+SR-00167,IT Support,Student,2026-03-13,Portal,Normal,IT Services,3,Yes,,4,Cancelled,No,,Friday,Low,0
+SR-00168,Certification,Student,2026-03-09,Portal,Normal,Registrar,11,Yes,3.0,3,Completed,No,5.0,Monday,Medium,0
+SR-00169,IT Support,Student,2026-07-25,Portal,Normal,IT Services,11,Yes,3.0,4,Completed,No,3.9,Saturday,Medium,0
+SR-00170,Records,Faculty,2026-07-02,Email,Low,Registrar,11,Yes,,5,Pending,No,,Thursday,Medium,0
+SR-00171,Records,Student,2026-06-25,Portal,Normal,Registrar,11,Yes,10.0,5,Completed,No,3.5,Thursday,Medium,1
+SR-00172,Records,Student,2026-01-19,Portal,Normal,Registrar,11,Yes,,5,Pending,No,,Monday,Medium,0
+SR-00173,Financial Aid,Student,2026-06-21,Portal,Normal,Finance Office,8,Yes,9.0,7,Completed,No,4.1,Sunday,Medium,1
+SR-00174,ID Card,Student,2026-10-06,Email,Normal,Student Affairs,14,Yes,,3,Pending,No,,Tuesday,Medium,0
+SR-00175,ID Card,Student,2026-01-09,Portal,Normal,Student Affairs,5,Yes,4.0,3,Completed,No,4.4,Friday,Low,1
+SR-00176,Scholarship Inquiry,Student,2026-05-16,Email,Normal,Scholarship Office,7,Yes,12.0,7,Completed,No,3.2,Saturday,Medium,1
+SR-00177,ID Card,Staff,2026-05-23,Portal,Normal,Student Affairs,13,Yes,1.0,3,Completed,No,5.0,Saturday,Medium,0
+SR-00178,Certification,Student,2026-09-13,Portal,Normal,Registrar,11,Yes,2.0,3,Completed,Yes,5.0,Sunday,Medium,0
+SR-00179,Transcript Request,Student,2026-03-25,Email,Normal,Registrar,9,No,7.0,5,Completed,No,3.8,Wednesday,Medium,1
+SR-00180,Enrollment,Student,2026-05-18,Email,Normal,Admissions,12,Yes,4.0,5,Completed,No,5.0,Monday,Medium,0
+SR-00181,Transcript Request,Student,2026-07-24,Portal,Normal,Registrar,9,Yes,2.0,5,Completed,No,5.0,Friday,Medium,0
+SR-00182,Certification,Staff,2026-01-21,Walk-in,Low,Registrar,8,Yes,,3,Pending,No,,Wednesday,Medium,0
+SR-00183,Scholarship Inquiry,Faculty,2026-08-17,Portal,Low,Scholarship Office,9,No,4.0,7,Completed,No,5.0,Monday,Medium,0
+SR-00184,ID Card,Student,2026-08-23,Portal,Low,Student Affairs,10,Yes,5.0,3,Completed,Yes,4.5,Sunday,Medium,1
+SR-00185,Scholarship Inquiry,Student,2026-07-25,Walk-in,Low,Scholarship Office,7,No,10.0,7,Completed,No,3.6,Saturday,Medium,1
+SR-00186,Scholarship Inquiry,Staff,2026-07-05,Portal,Normal,Scholarship Office,13,Yes,,7,Pending,No,,Sunday,Medium,0
+SR-00187,Certification,Student,2026-08-02,Email,Normal,Registrar,5,Yes,6.0,3,Completed,Yes,4.7,Sunday,Low,1
+SR-00188,Scholarship Inquiry,Staff,2026-08-11,Portal,High,Scholarship Office,21,Yes,1.0,7,Completed,No,5.0,Tuesday,High,0
+SR-00189,Certification,Student,2026-09-14,Email,Low,Registrar,14,Yes,,3,Pending,No,,Monday,Medium,0
+SR-00190,IT Support,Faculty,2026-05-04,Portal,Normal,IT Services,10,Yes,3.0,4,Completed,No,4.8,Monday,Medium,0
+SR-00191,ID Card,Student,2026-05-12,Portal,Normal,Student Affairs,13,No,,3,Pending,No,,Tuesday,Medium,0
+SR-00192,ID Card,Student,2026-07-02,Portal,Normal,Student Affairs,8,Yes,6.0,3,Completed,No,3.7,Thursday,Medium,1
+SR-00193,Enrollment,Student,2026-02-28,Portal,High,Admissions,13,No,4.0,5,Completed,No,4.7,Saturday,Medium,0
+SR-00194,IT Support,Student,2026-09-01,Portal,High,IT Services,13,Yes,7.0,4,Completed,No,4.3,Tuesday,Medium,1
+SR-00195,Transcript Request,Student,2026-08-08,Portal,High,Registrar,8,Yes,,5,Pending,No,,Saturday,Medium,0
+SR-00196,Records,Student,2026-06-30,Portal,Low,Registrar,6,Yes,1.0,5,Completed,No,5.0,Tuesday,Medium,0
+SR-00197,IT Support,Faculty,2026-03-30,Portal,Normal,IT Services,10,Yes,1.0,4,Completed,No,5.0,Monday,Medium,0
+SR-00198,Records,Student,2026-04-12,Portal,Normal,Registrar,6,Yes,3.0,5,Completed,Yes,5.0,Sunday,Medium,0
+SR-00199,IT Support,Student,2026-05-06,Email,Normal,IT Services,9,Yes,5.0,4,Completed,No,5.0,Wednesday,Medium,1
+SR-00200,Transcript Request,Student,2026-07-09,Email,Normal,Registrar,15,Yes,4.0,5,Completed,No,4.6,Thursday,Medium,0
+SR-00201,IT Support,Student,2026-08-10,Email,Normal,IT Services,13,Yes,2.0,4,Completed,No,4.8,Monday,Medium,0
+SR-00202,Transcript Request,Staff,2026-07-12,Portal,Normal,Registrar,11,Yes,10.0,5,Completed,Yes,2.6,Sunday,Medium,1
+SR-00203,Scholarship Inquiry,Faculty,2026-09-22,Walk-in,Normal,Scholarship Office,14,Yes,3.0,7,Completed,No,5.0,Tuesday,Medium,0
+SR-00204,ID Card,Student,2026-09-30,Portal,Normal,Student Affairs,13,Yes,1.0,3,Completed,No,5.0,Wednesday,Medium,0
+SR-00205,Scholarship Inquiry,Staff,2026-07-21,Portal,Low,Scholarship Office,10,Yes,8.0,7,Completed,No,4.5,Tuesday,Medium,1
+SR-00206,IT Support,Faculty,2026-04-18,Portal,Low,IT Services,8,Yes,2.0,4,Completed,No,5.0,Saturday,Medium,0
+SR-00207,Financial Aid,Student,2026-06-21,Email,Normal,Finance Office,10,Yes,10.0,7,Completed,No,3.6,Sunday,Medium,1
+SR-00208,Transcript Request,Faculty,2026-05-04,Portal,Normal,Registrar,19,Yes,10.0,5,Completed,No,3.6,Monday,High,1
+SR-00209,IT Support,Student,2026-06-30,Portal,Normal,IT Services,8,Yes,1.0,4,Completed,No,5.0,Tuesday,Medium,0
+SR-00210,Financial Aid,Staff,2026-08-20,Walk-in,Normal,Finance Office,12,Yes,3.0,7,Completed,No,5.0,Thursday,Medium,0
+SR-00211,IT Support,Student,2026-04-18,Portal,Normal,IT Services,8,No,21.0,4,Completed,No,1.0,Saturday,Medium,1
+SR-00212,ID Card,Student,2026-05-26,Portal,Normal,Student Affairs,10,Yes,3.0,3,Completed,No,5.0,Tuesday,Medium,0
+SR-00213,Financial Aid,Student,2026-01-17,Walk-in,Normal,Finance Office,13,No,,7,Pending,No,,Saturday,Medium,0
+SR-00214,Scholarship Inquiry,Faculty,2026-07-30,Portal,Normal,Scholarship Office,12,Yes,5.0,7,Completed,No,5.0,Thursday,Medium,0
+SR-00215,ID Card,Student,2026-05-22,Portal,Normal,Student Affairs,11,Yes,,3,Pending,No,,Friday,Medium,0
+SR-00216,IT Support,Student,2026-05-13,Walk-in,Normal,IT Services,4,Yes,5.0,4,Completed,No,4.6,Wednesday,Low,1
+SR-00217,Records,Student,2026-06-03,Walk-in,Normal,Registrar,12,Yes,,5,Pending,No,,Wednesday,Medium,0
+SR-00218,Records,Student,2026-03-06,Portal,Normal,Registrar,6,Yes,10.0,5,Completed,No,3.7,Friday,Medium,1
+SR-00219,Scholarship Inquiry,Student,2026-06-21,Email,Normal,Scholarship Office,4,Yes,17.0,7,Completed,No,2.7,Sunday,Low,1
+SR-00220,Transcript Request,Staff,2026-08-01,Portal,Low,Registrar,8,Yes,6.0,5,Completed,No,4.2,Saturday,Medium,1
+SR-00221,Certification,Student,2026-04-12,Portal,Low,Registrar,9,Yes,,3,Pending,No,,Sunday,Medium,0
+SR-00222,Scholarship Inquiry,Student,2026-02-10,Portal,Normal,Scholarship Office,11,Yes,6.0,7,Completed,Yes,5.0,Tuesday,Medium,0
+SR-00223,ID Card,Student,2026-04-23,Portal,High,Student Affairs,11,Yes,7.0,3,Completed,No,4.2,Thursday,Medium,1
+SR-00224,Certification,Student,2026-03-01,Email,Normal,Registrar,5,Yes,5.0,3,Completed,No,4.0,Sunday,Low,1
+SR-00225,ID Card,Student,2026-04-19,Email,Low,Student Affairs,9,Yes,,3,Pending,No,,Sunday,Medium,0
+SR-00226,IT Support,Faculty,2026-06-29,Portal,High,IT Services,13,Yes,7.0,4,Completed,No,4.4,Monday,Medium,1
+SR-00227,Financial Aid,Student,2026-02-05,Portal,Normal,Finance Office,11,Yes,7.0,7,Completed,No,5.0,Thursday,Medium,0
+SR-00228,Enrollment,Faculty,2026-08-02,Portal,Normal,Admissions,12,Yes,12.0,5,Completed,Yes,2.5,Sunday,Medium,1
+SR-00229,Enrollment,Student,2026-03-08,Walk-in,High,Admissions,19,Yes,,5,Pending,No,,Sunday,High,0
+SR-00230,Certification,Faculty,2026-09-12,Portal,Low,Registrar,10,Yes,1.0,3,Completed,No,5.0,Saturday,Medium,0
+SR-00231,Scholarship Inquiry,Staff,2026-07-29,Portal,Normal,Scholarship Office,8,Yes,6.0,7,Completed,No,5.0,Wednesday,Medium,0
+SR-00232,Financial Aid,Student,2026-03-22,Portal,Normal,Finance Office,7,Yes,,7,Cancelled,No,,Sunday,Medium,0
+SR-00233,Records,Student,2026-06-11,Portal,Low,Registrar,11,Yes,19.0,5,Completed,Yes,1.0,Thursday,Medium,1
+SR-00234,Financial Aid,Faculty,2026-02-05,Email,Normal,Finance Office,11,Yes,8.0,7,Completed,No,4.3,Thursday,Medium,1
+SR-00235,Scholarship Inquiry,Student,2026-02-01,Email,Normal,Scholarship Office,8,Yes,20.0,7,Completed,Yes,1.6,Sunday,Medium,1
+SR-00236,ID Card,Student,2026-09-29,Portal,Low,Student Affairs,5,Yes,7.0,3,Completed,No,3.9,Tuesday,Low,1
+SR-00237,ID Card,Student,2026-08-17,Email,Normal,Student Affairs,10,Yes,5.0,3,Completed,No,4.0,Monday,Medium,1
+SR-00238,Scholarship Inquiry,Student,2026-02-17,Walk-in,Normal,Scholarship Office,12,No,19.0,7,Completed,No,1.0,Tuesday,Medium,1
+SR-00239,IT Support,Student,2026-03-25,Portal,Low,IT Services,13,Yes,,4,Pending,No,,Wednesday,Medium,0
+SR-00240,ID Card,Student,2026-03-01,Portal,Low,Student Affairs,12,Yes,,3,Pending,Yes,,Sunday,Medium,0
+SR-00241,Certification,Faculty,2026-04-25,Portal,High,Registrar,11,Yes,2.0,3,Completed,Yes,5.0,Saturday,Medium,0
+SR-00242,Enrollment,Student,2026-03-27,Email,Normal,Admissions,13,Yes,4.0,5,Completed,No,4.5,Friday,Medium,0
+SR-00243,Records,Student,2026-04-06,Portal,Normal,Registrar,9,No,10.0,5,Completed,No,3.2,Monday,Medium,1
+SR-00244,ID Card,Student,2026-06-02,Portal,Low,Student Affairs,5,Yes,,3,Pending,No,,Tuesday,Low,0
+SR-00245,ID Card,Student,2026-02-26,Portal,Normal,Student Affairs,14,Yes,2.0,3,Completed,No,4.9,Thursday,Medium,0
+SR-00246,Records,Student,2026-09-09,Walk-in,Normal,Registrar,11,No,6.0,5,Completed,No,4.9,Wednesday,Medium,1
+SR-00247,Financial Aid,Staff,2026-07-27,Portal,Normal,Finance Office,10,Yes,7.0,7,Completed,Yes,5.0,Monday,Medium,0
+SR-00248,Scholarship Inquiry,Student,2026-08-05,Email,Normal,Scholarship Office,15,Yes,3.0,7,Completed,No,4.9,Wednesday,Medium,0
+SR-00249,Financial Aid,Student,2026-02-21,Portal,High,Finance Office,14,Yes,7.0,7,Completed,No,4.3,Saturday,Medium,0
+SR-00250,Records,Student,2026-07-22,Walk-in,High,Registrar,16,Yes,,5,Pending,No,,Wednesday,High,0
+SR-00251,Certification,Student,2026-08-27,Portal,Low,Registrar,9,Yes,1.0,3,Completed,No,5.0,Thursday,Medium,0
+SR-00252,Scholarship Inquiry,Faculty,2026-02-23,Portal,Low,Scholarship Office,11,Yes,,7,Pending,No,,Monday,Medium,0
+SR-00253,Certification,Student,2026-08-03,Email,Low,Registrar,10,No,6.0,3,Completed,No,3.4,Monday,Medium,1
+SR-00254,IT Support,Student,2026-04-15,Walk-in,Normal,IT Services,14,No,,4,Pending,No,,Wednesday,Medium,0
+SR-00255,ID Card,Student,2026-08-13,Portal,Low,Student Affairs,6,Yes,,3,Pending,No,,Thursday,Medium,0
+SR-00256,Certification,Student,2026-05-18,Portal,High,Registrar,11,Yes,3.0,3,Cancelled,No,,Monday,Medium,0
+SR-00257,ID Card,Staff,2026-08-17,Email,Normal,Student Affairs,7,Yes,2.0,3,Completed,No,4.7,Monday,Medium,0
+SR-00258,Records,Student,2026-02-15,Walk-in,Normal,Registrar,9,Yes,3.0,5,Completed,No,5.0,Sunday,Medium,0
+SR-00259,Certification,Faculty,2026-04-23,Portal,Normal,Registrar,17,Yes,3.0,3,Completed,No,5.0,Thursday,High,0
+SR-00260,Enrollment,Student,2026-03-22,Portal,High,Admissions,17,Yes,1.0,5,Completed,No,5.0,Sunday,High,0
+SR-00261,Financial Aid,Student,2026-03-15,Email,Low,Finance Office,13,Yes,6.0,7,Completed,No,5.0,Sunday,Medium,0
+SR-00262,Certification,Student,2026-04-01,Email,Normal,Registrar,9,Yes,,3,Cancelled,No,,Wednesday,Medium,0
+SR-00263,IT Support,Staff,2026-04-22,Email,Normal,IT Services,12,Yes,,4,Cancelled,No,,Wednesday,Medium,0
+SR-00264,Transcript Request,Student,2026-02-09,Portal,High,Registrar,12,Yes,2.0,5,Completed,No,5.0,Monday,Medium,0
+SR-00265,Transcript Request,Student,2026-07-21,Portal,Normal,Registrar,12,Yes,2.0,5,Completed,No,4.3,Tuesday,Medium,0
+SR-00266,Enrollment,Student,2026-06-08,Walk-in,Normal,Admissions,17,Yes,,5,Pending,No,,Monday,High,0
+SR-00267,Scholarship Inquiry,Student,2026-08-25,Email,Low,Scholarship Office,6,Yes,,7,Pending,No,,Tuesday,Medium,0
+SR-00268,IT Support,Staff,2026-07-21,Email,High,IT Services,23,No,6.0,4,Completed,No,3.8,Tuesday,High,1
+SR-00269,Enrollment,Student,2026-02-15,Portal,Normal,Admissions,7,Yes,8.0,5,Completed,No,4.4,Sunday,Medium,1
+SR-00270,Enrollment,Student,2026-01-24,Portal,Normal,Admissions,14,No,,5,Pending,No,,Saturday,Medium,0
+SR-00271,IT Support,Student,2026-05-03,Email,High,IT Services,13,Yes,1.0,4,Completed,No,4.5,Sunday,Medium,0
+SR-00272,Records,Student,2026-05-19,Portal,Normal,Registrar,9,Yes,11.0,5,Completed,No,3.5,Tuesday,Medium,1
+SR-00273,Certification,Student,2026-03-13,Walk-in,Normal,Registrar,15,No,,3,Cancelled,No,,Friday,Medium,0
+SR-00274,Transcript Request,Student,2026-08-12,Portal,Normal,Registrar,9,Yes,,5,Cancelled,No,,Wednesday,Medium,0
+SR-00275,Scholarship Inquiry,Student,2026-06-16,Email,Low,Scholarship Office,10,Yes,,7,Pending,No,,Tuesday,Medium,0
+SR-00276,Scholarship Inquiry,Student,2026-08-02,Walk-in,Normal,Scholarship Office,10,Yes,,7,Pending,No,,Sunday,Medium,0
+SR-00277,Scholarship Inquiry,Student,2026-02-04,Portal,Low,Scholarship Office,7,Yes,4.0,7,Completed,No,4.9,Wednesday,Medium,0
+SR-00278,Financial Aid,Student,2026-08-21,Portal,Low,Finance Office,12,Yes,1.0,7,Completed,No,5.0,Friday,Medium,0
+SR-00279,Records,Student,2026-03-03,Portal,High,Registrar,12,Yes,2.0,5,Completed,No,5.0,Tuesday,Medium,0
+SR-00280,Records,Student,2026-05-10,Portal,Normal,Registrar,7,No,4.0,5,Completed,No,4.7,Sunday,Medium,0
+SR-00281,IT Support,Student,2026-05-08,Portal,Normal,IT Services,10,Yes,5.0,4,Completed,No,4.2,Friday,Medium,1
+SR-00282,Scholarship Inquiry,Student,2026-08-22,Portal,Normal,Scholarship Office,7,Yes,6.0,7,Completed,No,4.5,Saturday,Medium,0
+SR-00283,ID Card,Student,2026-03-23,Walk-in,Normal,Student Affairs,16,Yes,1.0,3,Completed,No,4.8,Monday,High,0
+SR-00284,Scholarship Inquiry,Student,2026-03-13,Portal,Normal,Scholarship Office,14,Yes,,7,Pending,No,,Friday,Medium,0
+SR-00285,Scholarship Inquiry,Student,2026-04-10,Portal,High,Scholarship Office,17,Yes,4.0,7,Completed,No,5.0,Friday,High,0
+SR-00286,Transcript Request,Student,2026-04-16,Portal,High,Registrar,15,Yes,5.0,5,Completed,No,4.7,Thursday,Medium,0
+SR-00287,Certification,Student,2026-02-24,Portal,Normal,Registrar,5,Yes,1.0,3,Completed,Yes,5.0,Tuesday,Low,0
+SR-00288,Enrollment,Student,2026-02-23,Portal,Normal,Admissions,9,Yes,4.0,5,Completed,No,5.0,Monday,Medium,0
+SR-00289,Enrollment,Student,2026-03-10,Portal,Normal,Admissions,15,Yes,,5,Pending,No,,Tuesday,Medium,0
+SR-00290,Scholarship Inquiry,Student,2026-05-15,Email,Normal,Scholarship Office,13,Yes,1.0,7,Completed,No,4.5,Friday,Medium,0
+SR-00291,Financial Aid,Student,2026-04-11,Portal,Normal,Finance Office,11,Yes,17.0,7,Completed,No,1.0,Saturday,Medium,1
+SR-00292,IT Support,Student,2026-04-24,Walk-in,Normal,IT Services,9,Yes,,4,Pending,No,,Friday,Medium,0
+SR-00293,Transcript Request,Student,2026-07-25,Portal,Normal,Registrar,5,Yes,2.0,5,Completed,Yes,4.8,Saturday,Low,0
+SR-00294,IT Support,Student,2026-03-13,Portal,Normal,IT Services,11,Yes,1.0,4,Completed,No,5.0,Friday,Medium,0
+SR-00295,Enrollment,Faculty,2026-09-16,Email,Normal,Admissions,7,Yes,6.0,5,Completed,No,5.0,Wednesday,Medium,1
+SR-00296,Enrollment,Student,2026-08-03,Walk-in,Normal,Admissions,14,Yes,3.0,5,Completed,No,5.0,Monday,Medium,0
+SR-00297,Financial Aid,Student,2026-02-22,Portal,Low,Finance Office,16,Yes,1.0,7,Completed,No,5.0,Sunday,High,0
+SR-00298,Scholarship Inquiry,Student,2026-04-02,Portal,Low,Scholarship Office,14,Yes,13.0,7,Completed,No,2.8,Thursday,Medium,1
+SR-00299,IT Support,Student,2026-02-25,Portal,Normal,IT Services,14,Yes,1.0,4,Completed,No,5.0,Wednesday,Medium,0
+SR-00300,Records,Student,2026-03-22,Portal,Normal,Registrar,11,Yes,3.0,5,Completed,No,4.4,Sunday,Medium,0
+SR-00301,IT Support,Student,2026-04-17,Portal,Normal,IT Services,4,Yes,3.0,4,Completed,No,4.7,Friday,Low,0
+SR-00302,Financial Aid,Faculty,2026-02-10,Portal,Normal,Finance Office,5,Yes,16.0,7,Completed,No,2.9,Tuesday,Low,1
+SR-00303,Records,Staff,2026-01-09,Portal,Normal,Registrar,8,Yes,,5,Pending,No,,Friday,Medium,0
+SR-00304,Transcript Request,Student,2026-05-07,Portal,Normal,Registrar,7,Yes,3.0,5,Completed,No,5.0,Thursday,Medium,0
+SR-00305,Enrollment,Student,2026-07-20,Walk-in,Normal,Admissions,14,Yes,2.0,5,Completed,Yes,4.9,Monday,Medium,0
+SR-00306,Certification,Faculty,2026-03-30,Email,High,Registrar,11,Yes,4.0,3,Completed,No,4.6,Monday,Medium,1
+SR-00307,IT Support,Student,2026-09-02,Portal,Normal,IT Services,8,Yes,3.0,4,Completed,Yes,5.0,Wednesday,Medium,0
+SR-00308,Enrollment,Faculty,2026-04-18,Portal,Normal,Admissions,10,Yes,5.0,5,Completed,No,5.0,Saturday,Medium,0
+SR-00309,IT Support,Student,2026-09-14,Portal,Low,IT Services,13,Yes,,4,Pending,No,,Monday,Medium,0
+SR-00310,Records,Student,2026-03-12,Portal,High,Registrar,10,Yes,,5,Pending,No,,Thursday,Medium,0
+SR-00311,ID Card,Student,2026-06-05,Email,Normal,Student Affairs,10,Yes,4.0,3,Completed,No,4.4,Friday,Medium,1
+SR-00312,ID Card,Faculty,2026-08-06,Walk-in,High,Student Affairs,17,Yes,1.0,3,Completed,No,5.0,Thursday,High,0
+SR-00313,Records,Student,2026-01-21,Walk-in,Normal,Registrar,13,No,,5,Pending,No,,Wednesday,Medium,0
+SR-00314,IT Support,Student,2026-09-22,Walk-in,Low,IT Services,11,Yes,1.0,4,Completed,No,4.3,Tuesday,Medium,0
+SR-00315,Certification,Student,2026-04-17,Walk-in,Low,Registrar,15,No,4.0,3,Completed,No,4.5,Friday,Medium,1
+SR-00316,ID Card,Student,2026-05-24,Walk-in,Normal,Student Affairs,11,Yes,3.0,3,Completed,No,5.0,Sunday,Medium,0
+SR-00317,ID Card,Student,2026-06-29,Portal,Normal,Student Affairs,7,Yes,2.0,3,Completed,No,4.4,Monday,Medium,0
+SR-00318,ID Card,Student,2026-07-04,Portal,Low,Student Affairs,7,Yes,,3,Pending,No,,Saturday,Medium,0
+SR-00319,Transcript Request,Student,2026-01-11,Portal,Normal,Registrar,13,Yes,2.0,5,Completed,No,4.0,Sunday,Medium,0
+SR-00320,Financial Aid,Faculty,2026-09-04,Portal,High,Finance Office,12,No,,7,Cancelled,Yes,,Friday,Medium,0
+SR-00321,IT Support,Faculty,2026-06-28,Portal,Normal,IT Services,13,Yes,1.0,4,Completed,No,4.5,Sunday,Medium,0
+SR-00322,Records,Student,2026-10-11,Email,Normal,Registrar,12,No,10.0,5,Completed,No,3.7,Sunday,Medium,1
+SR-00323,Enrollment,Student,2026-05-17,Portal,Low,Admissions,12,Yes,8.0,5,Completed,Yes,4.0,Sunday,Medium,1
+SR-00324,Transcript Request,Student,2026-06-25,Portal,Normal,Registrar,9,No,2.0,5,Completed,No,4.8,Thursday,Medium,0
+SR-00325,Transcript Request,Student,2026-05-08,Portal,Normal,Registrar,8,No,31.0,5,Completed,No,1.0,Friday,Medium,1
+SR-00326,Certification,Student,2026-09-11,Portal,High,Registrar,12,Yes,1.0,3,Completed,No,5.0,Friday,Medium,0
+SR-00327,Certification,Staff,2026-08-26,Portal,Normal,Registrar,9,Yes,2.0,3,Completed,No,4.7,Wednesday,Medium,0
+SR-00328,Records,Staff,2026-09-16,Email,Normal,Registrar,16,Yes,8.0,5,Completed,No,4.1,Wednesday,High,1
+SR-00329,Certification,Student,2026-05-26,Portal,Normal,Registrar,11,Yes,2.0,3,Completed,No,4.6,Tuesday,Medium,0
+SR-00330,Enrollment,Student,2026-08-14,Email,Low,Admissions,5,No,9.0,5,Completed,No,4.2,Friday,Low,1
+SR-00331,Enrollment,Student,2026-04-15,Portal,Normal,Admissions,8,Yes,8.0,5,Completed,No,4.3,Wednesday,Medium,1
+SR-00332,IT Support,Student,2026-05-14,Portal,Normal,IT Services,10,Yes,4.0,4,Completed,No,5.0,Thursday,Medium,0
+SR-00333,IT Support,Student,2026-08-05,Portal,Normal,IT Services,6,Yes,,4,Pending,No,,Wednesday,Medium,0
+SR-00334,Financial Aid,Student,2026-01-27,Email,High,Finance Office,13,Yes,,7,Pending,No,,Tuesday,Medium,0
+SR-00335,Scholarship Inquiry,Student,2026-07-22,Email,High,Scholarship Office,13,No,19.0,7,Completed,Yes,1.0,Wednesday,Medium,1
+SR-00336,Financial Aid,Student,2026-01-09,Portal,High,Finance Office,8,Yes,7.0,7,Completed,No,5.0,Friday,Medium,0
+SR-00337,Transcript Request,Student,2026-06-16,Walk-in,Low,Registrar,13,Yes,3.0,5,Completed,No,4.5,Tuesday,Medium,0
+SR-00338,IT Support,Student,2026-05-18,Portal,Normal,IT Services,20,No,8.0,4,Completed,No,4.1,Monday,High,1
+SR-00339,Certification,Student,2026-05-16,Walk-in,High,Registrar,16,Yes,1.0,3,Completed,No,4.6,Saturday,High,0
+SR-00340,Transcript Request,Faculty,2026-05-23,Portal,Normal,Registrar,9,Yes,5.0,5,Completed,No,4.8,Saturday,Medium,0
+SR-00341,ID Card,Staff,2026-05-22,Portal,Low,Student Affairs,9,Yes,1.0,3,Completed,No,4.8,Friday,Medium,0
+SR-00342,IT Support,Student,2026-04-29,Email,Normal,IT Services,19,Yes,1.0,4,Completed,No,4.4,Wednesday,High,0
+SR-00343,Enrollment,Faculty,2026-05-11,Portal,Normal,Admissions,15,Yes,13.0,5,Completed,Yes,3.3,Monday,Medium,1
+SR-00344,Enrollment,Staff,2026-06-13,Portal,Normal,Admissions,12,Yes,7.0,5,Completed,No,4.0,Saturday,Medium,1
+SR-00345,Transcript Request,Student,2026-08-06,Portal,High,Registrar,13,Yes,,5,Pending,No,,Thursday,Medium,0
+SR-00346,IT Support,Student,2026-06-08,Portal,Normal,IT Services,10,No,,4,Pending,No,,Monday,Medium,0
+SR-00347,Transcript Request,Student,2026-07-03,Email,Normal,Registrar,6,No,17.0,5,Completed,Yes,1.0,Friday,Medium,1
+SR-00348,Transcript Request,Student,2026-08-27,Email,Normal,Registrar,4,Yes,,5,Pending,No,,Thursday,Low,0
+SR-00349,Certification,Student,2026-10-09,Walk-in,Normal,Registrar,14,Yes,6.0,3,Completed,No,4.1,Friday,Medium,1
+SR-00350,Certification,Student,2026-02-04,Portal,Low,Registrar,9,Yes,,3,Pending,No,,Wednesday,Medium,0
+SR-00351,Enrollment,Student,2026-07-23,Portal,Normal,Admissions,11,Yes,,5,Cancelled,No,,Thursday,Medium,0
+SR-00352,Records,Student,2026-03-09,Portal,Normal,Registrar,12,Yes,7.0,5,Completed,No,4.3,Monday,Medium,1
+SR-00353,IT Support,Student,2026-03-01,Portal,Normal,IT Services,8,Yes,,4,Pending,No,,Sunday,Medium,0
+SR-00354,Scholarship Inquiry,Staff,2026-08-15,Portal,Normal,Scholarship Office,7,Yes,,7,Cancelled,No,,Saturday,Medium,0
+SR-00355,Transcript Request,Student,2026-01-24,Walk-in,High,Registrar,18,Yes,,5,Pending,No,,Saturday,High,0
+SR-00356,Transcript Request,Student,2026-08-30,Walk-in,Low,Registrar,10,Yes,,5,Cancelled,Yes,,Sunday,Medium,0
+SR-00357,Certification,Student,2026-08-08,Email,Normal,Registrar,8,Yes,4.0,3,Completed,No,4.8,Saturday,Medium,1
+SR-00358,Transcript Request,Student,2026-10-10,Portal,Normal,Registrar,10,Yes,4.0,5,Completed,No,5.0,Saturday,Medium,0
+SR-00359,Records,Student,2026-07-11,Portal,Normal,Registrar,6,Yes,,5,Pending,No,,Saturday,Medium,0
+SR-00360,ID Card,Student,2026-09-06,Portal,Low,Student Affairs,5,Yes,1.0,3,Completed,No,5.0,Sunday,Low,0
+SR-00361,Financial Aid,Student,2026-02-07,Portal,Normal,Finance Office,7,Yes,3.0,7,Completed,No,5.0,Saturday,Medium,0
+SR-00362,Transcript Request,Student,2026-09-11,Portal,Normal,Registrar,8,No,9.0,5,Completed,No,2.7,Friday,Medium,1
+SR-00363,Certification,Faculty,2026-02-18,Portal,Normal,Registrar,11,No,5.0,3,Completed,No,3.5,Wednesday,Medium,1
+SR-00364,Transcript Request,Student,2026-04-03,Portal,Low,Registrar,10,Yes,5.0,5,Completed,No,5.0,Friday,Medium,0
+SR-00365,Records,Student,2026-02-09,Walk-in,Normal,Registrar,12,Yes,,5,Pending,No,,Monday,Medium,0
+SR-00366,Enrollment,Student,2026-04-27,Portal,Normal,Admissions,11,Yes,15.0,5,Completed,Yes,1.2,Monday,Medium,1
+SR-00367,Scholarship Inquiry,Student,2026-08-02,Walk-in,Normal,Scholarship Office,13,Yes,,7,Pending,No,,Sunday,Medium,0
+SR-00368,IT Support,Student,2026-03-21,Portal,Low,IT Services,5,Yes,,4,Pending,No,,Saturday,Low,0
+SR-00369,Records,Student,2026-08-23,Portal,Low,Registrar,4,Yes,2.0,5,Completed,No,5.0,Sunday,Low,0
+SR-00370,Financial Aid,Student,2026-06-23,Portal,Normal,Finance Office,4,No,12.0,7,Completed,No,3.5,Tuesday,Low,1
+SR-00371,IT Support,Student,2026-06-30,Portal,Low,IT Services,6,No,4.0,4,Completed,No,4.7,Tuesday,Medium,0
+SR-00372,ID Card,Faculty,2026-09-24,Portal,High,Student Affairs,11,Yes,,3,Cancelled,No,,Thursday,Medium,0
+SR-00373,Scholarship Inquiry,Student,2026-05-05,Portal,Normal,Scholarship Office,11,Yes,,7,Pending,No,,Tuesday,Medium,0
+SR-00374,IT Support,Student,2026-04-11,Walk-in,Normal,IT Services,13,Yes,9.0,4,Completed,No,3.7,Saturday,Medium,1
+SR-00375,Transcript Request,Faculty,2026-10-10,Portal,High,Registrar,25,No,12.0,5,Completed,No,2.7,Saturday,High,1
+SR-00376,Records,Student,2026-06-09,Portal,Low,Registrar,13,Yes,2.0,5,Completed,No,4.9,Tuesday,Medium,0
+SR-00377,ID Card,Staff,2026-06-26,Portal,Normal,Student Affairs,7,Yes,4.0,3,Completed,No,3.3,Friday,Medium,1
+SR-00378,ID Card,Student,2026-03-28,Portal,High,Student Affairs,8,Yes,,3,Pending,No,,Saturday,Medium,0
+SR-00379,Scholarship Inquiry,Faculty,2026-03-06,Portal,Normal,Scholarship Office,11,Yes,,7,Pending,No,,Friday,Medium,0
+SR-00380,IT Support,Student,2026-02-21,Portal,Normal,IT Services,8,Yes,7.0,4,Completed,Yes,4.3,Saturday,Medium,1
+SR-00381,Records,Student,2026-03-08,Walk-in,Normal,Registrar,10,Yes,,5,Pending,No,,Sunday,Medium,0
+SR-00382,Transcript Request,Student,2026-02-28,Email,Low,Registrar,17,Yes,4.0,5,Completed,No,5.0,Saturday,High,0
+SR-00383,Transcript Request,Student,2026-08-02,Email,Normal,Registrar,8,Yes,,5,Pending,No,,Sunday,Medium,0
+SR-00384,Certification,Student,2026-01-21,Portal,High,Registrar,12,Yes,3.0,3,Completed,No,5.0,Wednesday,Medium,0
+SR-00385,Records,Staff,2026-06-30,Portal,High,Registrar,13,Yes,2.0,5,Completed,No,4.8,Tuesday,Medium,0
+SR-00386,Records,Student,2026-09-27,Walk-in,Low,Registrar,10,Yes,,5,Pending,No,,Sunday,Medium,0
+SR-00387,Records,Student,2026-08-07,Portal,Normal,Registrar,8,No,13.0,5,Completed,No,2.5,Friday,Medium,1
+SR-00388,Financial Aid,Student,2026-04-27,Portal,Normal,Finance Office,11,Yes,7.0,7,Completed,No,4.9,Monday,Medium,0
+SR-00389,Transcript Request,Student,2026-01-21,Portal,High,Registrar,16,Yes,1.0,5,Cancelled,No,,Wednesday,High,0
+SR-00390,Certification,Student,2026-08-26,Email,Low,Registrar,7,Yes,4.0,3,Completed,No,3.9,Wednesday,Medium,1
+SR-00391,ID Card,Staff,2026-01-05,Email,High,Student Affairs,14,Yes,2.0,3,Completed,No,5.0,Monday,Medium,0
+SR-00392,Certification,Student,2026-07-14,Email,Normal,Registrar,7,Yes,3.0,3,Completed,No,5.0,Tuesday,Medium,0
+SR-00393,IT Support,Student,2026-07-11,Email,Low,IT Services,9,Yes,6.0,4,Completed,No,4.5,Saturday,Medium,1
+SR-00394,Enrollment,Student,2026-02-27,Portal,Low,Admissions,13,Yes,9.0,5,Completed,No,4.1,Friday,Medium,1
+SR-00395,ID Card,Student,2026-07-31,Walk-in,Normal,Student Affairs,12,Yes,3.0,3,Completed,No,5.0,Friday,Medium,0
+SR-00396,Financial Aid,Student,2026-02-23,Portal,Low,Finance Office,15,Yes,,7,Pending,No,,Monday,Medium,0
+SR-00397,Records,Student,2026-03-09,Email,Normal,Registrar,14,No,7.0,5,Completed,No,3.5,Monday,Medium,1
+SR-00398,Certification,Student,2026-08-20,Portal,High,Registrar,14,Yes,5.0,3,Completed,No,4.2,Thursday,Medium,1
+SR-00399,IT Support,Staff,2026-10-06,Walk-in,Normal,IT Services,13,No,,4,Pending,No,,Tuesday,Medium,0
+SR-00400,IT Support,Student,2026-03-20,Portal,Normal,IT Services,11,No,7.0,4,Completed,No,3.5,Friday,Medium,1
